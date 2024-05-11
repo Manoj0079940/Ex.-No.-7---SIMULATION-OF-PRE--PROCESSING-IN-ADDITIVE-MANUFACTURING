@@ -40,12 +40,14 @@
 
 ## OUTPUT:
 ![image](https://github.com/Manoj0079940/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149366208/97b0bd4b-3a26-4553-a5d4-bfdb9e0cb599)
+![image](https://github.com/Manoj0079940/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149366208/cd426a35-a729-401e-9040-ecc853108a1b)
+
 
 
 
 
 ### Name:MANOJ M
-### Register Number:21223230122
+### Register Number:212223230122
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
